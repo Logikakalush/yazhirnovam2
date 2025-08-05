@@ -1,0 +1,31 @@
+body{ 
+    background-color: rgb(109, 14, 14);
+    font-size: 35px;
+    color: aliceblue;
+}
+nav{
+    background-color: rgb(216, 154, 154);
+    padding: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 20px;
+    color: aliceblue;
+}
+
+.tumbler{
+    font-size: 20px;
+}
+
+h1 img{
+    width: 100px;
+}
+footer{
+    background-color:   rgb(216, 154, 154);
+    text-align: center;
+}
+
+img{
+    border-radius: 20px;
+}
